@@ -1,13 +1,31 @@
-Task Management Application built as part of a Full Stack
-Internship skill assessment.
+# Task Management Application
 
-Tech Stack:
-- React
+This project was developed as part of a **Full Stack Development Internship – Skill Assessment**.  
+It demonstrates core full-stack concepts including REST APIs, database integration, and a component-based frontend using React.
+
+---
+
+## 🚀 Features
+- Create, view, update, and delete tasks
+- Task fields: title, description, and status
+- RESTful API integration
+- Persistent data storage using MongoDB
+- Clean and responsive user interface
+- Scrollable task list for better user experience
+
+---
+
+## 🛠️ Tech Stack
+**Frontend**
+- React (Vite)
+- CSS (no external UI libraries)
+
+**Backend**
 - Node.js
-- Express
-- MongoDB
+- Express.js
 
-Features:
-- Create, view and delete tasks
-- REST API integration
-- Clean folder structure
+**Database**
+- MongoDB (Mongoose)
+
+---
+
